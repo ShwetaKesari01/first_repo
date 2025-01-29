@@ -1,2 +1,2 @@
 # first_repo
-"Here i Add my projects and practices".
+"Here I Add my projects and practices".
